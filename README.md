@@ -7,7 +7,7 @@ This repository contains code for paper **Robust extraction of pneumonia-associa
 ## Project Structure
 
 - **narrative/**: Jupyter notebooks documenting data curation, preprocessing, clustering, state transitions, and results visualization.
-- **scripts/**: Python scripts for computing intermediate results, such as putative density peaks.
+- **scripts/**: Python scripts for computing intermediate results, including silhouette coefficients and putative density peaks.
 - **src/**: Python function modules used for data processing, clustering, and analysis.
 
 - **README.md**: This file.
